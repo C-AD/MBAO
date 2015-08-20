@@ -342,8 +342,8 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 100px;
-        padding-bottom: 300px;
+        padding-top: 300px;
+        padding-bottom: 100px;
     }
 
     header .intro-text .intro-lead-in {
@@ -761,6 +761,11 @@ body {
     
 
 }
+
+.navbar-fixed-top {
+  top: 25px; 
+
+Ò}
 
 /* Cmd + Shift + C Pour utiliser color picker*/ 
 
