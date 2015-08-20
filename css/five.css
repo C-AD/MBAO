@@ -738,3 +738,29 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+
+#presentation .intro {
+    text-align: center;
+}
+
+ #presentation img {
+
+    border: 5px solid white; /* obligatoire */
+    border-radius: 5px;
+
+ }
+
+ #presentation .tour{
+
+    border: 5px solid white; /* obligatoire */
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+
+}
+
+
+
+
